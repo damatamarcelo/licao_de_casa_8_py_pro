@@ -1,0 +1,1 @@
+Criação do repositório, ambiente de desenvolvimento e arquivo gitignore
